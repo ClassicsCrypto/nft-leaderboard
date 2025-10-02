@@ -1,0 +1,7 @@
+/* Add some basic styling for the table */
+body { font-family: sans-serif; background-color: #f4f4f9; color: #333; }
+.container { max-width: 800px; margin: 2rem auto; padding: 1rem; background: white; box-shadow: 0 0 10px rgba(0,0,0,0.1); }
+table { width: 100%; border-collapse: collapse; }
+th, td { padding: 12px; border-bottom: 1px solid #ddd; text-align: left; }
+th { background-color: #f2f2f2; }
+tbody tr:hover { background-color: #fafafa; }
